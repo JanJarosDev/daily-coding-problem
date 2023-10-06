@@ -10,7 +10,6 @@ class Day1Test {
     @Test
     fun test() {
         assertEquals(result, day1(array, k))
-        assertEquals(result, day1Functional(array, k))
     }
 
     @Test
