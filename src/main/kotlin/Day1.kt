@@ -1,5 +1,3 @@
-package day1
-
 /*
 
 This problem was recently asked by Google.
