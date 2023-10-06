@@ -29,6 +29,10 @@ In this repository, you'll find my daily solutions to various coding challenges,
 
 Each day's problem and solution are organized into separate directories. To explore a specific day's solution, click on the Day link in the table above.
 
+## Purpose
+
+I maintain this repository and solve daily coding problems to continuously hone my coding skills and grow as a developer.
+
 ## Contributing
 
 Feel free to contribute your solutions in Kotlin or suggest improvements to existing ones. Just create a pull request with your changes.
