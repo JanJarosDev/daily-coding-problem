@@ -16,9 +16,9 @@ In this repository, you'll find my daily solutions to various coding challenges,
     </thead>
     <tbody>
       <tr>
-        <td><a href="src/main/kotlin/day1/Day1.kt">Day 1</a></td>
+        <td><a href="src/main/kotlin/Day1.kt">Day 1</a></td>
         <td>Google</td>
-        <td><a href="src/test/kotlin/day1/Day1Test.kt">Tests</a></td>
+        <td><a href="src/test/kotlin/Day1Test.kt">Tests</a></td>
         <td>Easy</td>
       </tr>
     </tbody>
