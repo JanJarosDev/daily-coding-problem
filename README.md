@@ -23,6 +23,13 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <td>Easy</td>
         <td>O(n)</td>
       </tr>
+      <tr>
+        <td><a href="src/main/kotlin/Day2.kt">Day 2</a></td>
+        <td>Uber</td>
+        <td><a href="src/test/kotlin/Day2Test.kt">Tests</a></td>
+        <td>Hard</td>
+        <td>O(n)</td>
+      </tr>
     </tbody>
   </table>
 </div>
