@@ -12,6 +12,7 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <th>Asked by</th>
         <th>Tests</th>
         <th>Difficulty</th>
+        <th>Complexity</th>
       </tr>
     </thead>
     <tbody>
@@ -20,6 +21,7 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <td>Google</td>
         <td><a href="src/test/kotlin/Day1Test.kt">Tests</a></td>
         <td>Easy</td>
+        <td>O(n)</td>
       </tr>
     </tbody>
   </table>
