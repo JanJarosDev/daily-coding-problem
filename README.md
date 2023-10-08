@@ -30,6 +30,13 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <td>Hard</td>
         <td>O(n)</td>
       </tr>
+      <tr>
+        <td><a href="src/main/kotlin/Day3.kt">Day 3</a></td>
+        <td>Google</td>
+        <td><a href="src/test/kotlin/Day3Test.kt">Tests</a></td>
+        <td>Medium</td>
+        <td>O(n)</td>
+      </tr>
     </tbody>
   </table>
 </div>
