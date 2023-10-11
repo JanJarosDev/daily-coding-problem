@@ -44,6 +44,13 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <td>Hard</td>
         <td>O(n)</td>
       </tr>
+      <tr>
+        <td><a href="src/main/kotlin/Day5.kt">Day 5</a></td>
+        <td>Jane Street</td>
+        <td><a href="src/test/kotlin/Day5Test.kt">Tests</a></td>
+        <td>Medium</td>
+        <td>O(1)</td>
+      </tr>
     </tbody>
   </table>
 </div>
