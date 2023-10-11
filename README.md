@@ -51,6 +51,13 @@ In this repository, you'll find my daily solutions to various coding challenges,
         <td>Medium</td>
         <td>O(1)</td>
       </tr>
+      <tr>
+        <td><a href="src/main/kotlin/Day6.kt">Day 6</a></td>
+        <td>Google</td>
+        <td><a href="src/test/kotlin/Day6Test.kt">Tests</a></td>
+        <td>Hard</td>
+        <td>😵😵😵</td>
+      </tr>
     </tbody>
   </table>
 </div>
